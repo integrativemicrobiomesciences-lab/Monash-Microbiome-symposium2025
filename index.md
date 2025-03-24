@@ -7,11 +7,14 @@ A one-day symposium to bring together everyone interested in microbiome sciences
 
 {% include section.html %}
 
-## Highlights
+## replace with symposium date
+
 
 {% capture text %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+what
+who - organising committee
+where
 
 {%
   include button.html
@@ -32,14 +35,17 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
   text=text
 %}
 
+
+
+
 {% capture text %}
 
-who are we?
+how to submit an abstract 
 
 {%
   include button.html
   link="projects"
-  text="Browse our projects"
+  text="Submit now"
   icon="fa-solid fa-arrow-right"
   flip=true
   style="bare"
@@ -57,9 +63,12 @@ who are we?
   text=text
 %}
 
+
+
+
 {% capture text %}
 
-submit an abstract 
+how the day will proceed
 
 {%
   include button.html
@@ -76,6 +85,6 @@ submit an abstract
   include feature.html
   image="images/photo.jpg"
   link="team"
-  title="Program"
+  title="See the proceedings for the day"
   text=text
 %}
