@@ -1,7 +1,7 @@
 ---
 name: CK Yao
 image: images/photo.jpg
-role: principal-investigator
+role: false
 affiliation: Monash University, Department of Biochemistry and Molecular Biology 
 aliases:
   - CK. Yao
