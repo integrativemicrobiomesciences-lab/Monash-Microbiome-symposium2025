@@ -7,8 +7,6 @@ A one-day symposium to bring together everyone interested in microbiome sciences
 
 {% include section.html %}
 
-## replace with symposium date
-
 
 {% capture text %}
 
