@@ -1,7 +1,7 @@
 ---
 name: Chris Greening
 image: images/photo.jpg
-role: principal-investigator
+role: false
 affiliation: Monash University, Department of Microbiology
 aliases:
   - C. Greening
