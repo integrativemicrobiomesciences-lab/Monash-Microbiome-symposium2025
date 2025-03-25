@@ -14,9 +14,9 @@ Andre Mu is a Senior Lecturer and Laboratory Head with the Department of Biochem
 
 Andre has over 14 years of training across five world-leading institutions spanning three continents, each position supported by prestigious individual research fellowships, totalling >$411,000, including:
 
-Endeavour Research Fellowship: Doherty Institute & UCSD (Australia & USA)
-EMBL-EBI & Sanger Research Fellowship: Wellcome Sanger Institute & EMBL-EBI (UK)
-NOMIS Foundation Research Fellowship: Salk Institute for Biological Studies (USA)
+Endeavour Research Fellowship: Doherty Institute & UCSD (Australia & USA)<br/>
+EMBL-EBI & Sanger Research Fellowship: Wellcome Sanger Institute & EMBL-EBI (UK)<br/>
+NOMIS Foundation Research Fellowship: Salk Institute for Biological Studies (USA)<br/><br/>
 
 Andre has trained with world-leaders in microbiology, microbiome sciences, and host-pathogen interactions, including:
 
