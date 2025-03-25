@@ -14,9 +14,6 @@ Mission statement for symposium
 
 # {% include icon.html icon="fa-solid fa-users" %}Organising committee
 
-Introduction to our organising committee
-
-
 {% include section.html %}
 
 {% include list.html data="members" component="portrait" filter="role == 'pi'" %}
