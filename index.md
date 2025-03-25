@@ -41,12 +41,12 @@ sponsors
 
 {% capture text %}
 
-Submit an abstract<br/>
+[Submit an abstract](https://docs.google.com/forms/d/16bGmc_smLFiCeqRelTzt8UZkinHDQQjzZjtr5oznu_M/edit?ts=67e0b11a)<br/>
 Register for event
 
 {%
   include button.html
-  link="contact"
+  link="https://docs.google.com/forms/d/16bGmc_smLFiCeqRelTzt8UZkinHDQQjzZjtr5oznu_M/edit?ts=67e0b11a"
   text="Submit now"
   icon="fa-solid fa-arrow-right"
   flip=true
