@@ -7,13 +7,7 @@ footer: images/background.jpg
 proofer: false
 
 # site social media and other links
-links:
-  email: contact@integrativemicrobiomesciences-lab.com
-  orcid: false
-  google-scholar: false
-  github: false
-  twitter: false
-  youtube: false
+
 
 ### jekyll settings
 
