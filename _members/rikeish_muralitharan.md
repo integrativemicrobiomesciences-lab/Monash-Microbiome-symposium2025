@@ -1,8 +1,8 @@
 ---
 name: Rikeish Muralitharan
 image: images/photo.jpg
-role: principal-investigator
-affiliation: Monash University, Department of Biochemistry and Molecular Biology 
+role: false
+affiliation: Monash University, Department of Pharmacology; Victorian Heart Institute
 aliases:
   - R. Muralitharan
   - R Muralitharan
