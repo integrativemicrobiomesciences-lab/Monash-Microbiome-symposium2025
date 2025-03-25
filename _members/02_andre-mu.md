@@ -1,6 +1,6 @@
 ---
 name: Andre Mu
-image: images/photo.jpg
+image: images/Mu_Andre.jpg
 role: false
 affiliation: Monash University, Department of Biochemistry and Molecular Biology 
 aliases:
