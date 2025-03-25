@@ -1,20 +1,26 @@
 ---
-title: Contact
+title: Participate and Location
 nav:
   order: 5
-  tooltip: Email, address, and location
+  tooltip: Participate and location
 ---
 
-# {% include icon.html icon="fa-regular fa-envelope" %}Contact
+# {% include icon.html icon="fa-regular fa-envelope" %}Participate
 
-Please contact one of our committee members with questions
+Please use the following Google Forms to (1) submit an abstract, and/or (2) register attendance 
 
 {%
   include button.html
-  type="email"
-  text="jane@smith.com"
+  text="Submit an abstract"
   link="jane@smith.com"
 %}
+
+{%
+  include button.html
+  text="Register attendance"
+  link="jane@smith.com"
+%}
+
 
 {%
   include button.html
@@ -30,12 +36,11 @@ Please contact one of our committee members with questions
 {%
   include figure.html
   image="images/photo.jpg"
-  caption="Lorem ipsum"
+  caption="Learning and Teaching Building<br/>
+  Monash Univeristy"
 %}
 
 {% endcapture %}
-
-
 
 {% include cols.html col1=col1 %}
 
