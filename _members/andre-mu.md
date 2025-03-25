@@ -1,7 +1,7 @@
 ---
 name: Andre Mu
 image: images/photo.jpg
-role: principal-investigator
+role: false
 affiliation: Monash University, Department of Biochemistry and Molecular Biology 
 aliases:
   - A. Mu
@@ -10,7 +10,6 @@ links:
   home-page: https://research.monash.edu/en/persons/andre-mu
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
 Andre Mu is a Senior Lecturer and Laboratory Head with the Department of Biochemistry and Molecular Biology at Monash University, and is affiliated with the Biomedicine Discovery Institute’s Infection, and Metabolism, diabetes & obesity Programs.
 
 Andre has over 14 years of training across five world-leading institutions spanning three continents, each position supported by prestigious individual research fellowships, totalling >$411,000, including:
@@ -18,8 +17,6 @@ Andre has over 14 years of training across five world-leading institutions spann
 Endeavour Research Fellowship: Doherty Institute & UCSD (Australia & USA)
 EMBL-EBI & Sanger Research Fellowship: Wellcome Sanger Institute & EMBL-EBI (UK)
 NOMIS Foundation Research Fellowship: Salk Institute for Biological Studies (USA)
-
-
 
 Andre has trained with world-leaders in microbiology, microbiome sciences, and host-pathogen interactions, including:
 
