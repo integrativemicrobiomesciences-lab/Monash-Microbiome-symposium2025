@@ -5,10 +5,12 @@ nav:
   tooltip: About, Organising committee, Speakers, Sponsors
 ---
 
-# {% include icon.html icon="fa-solid fa-users" %}Microbiome sciences at Monash
+# Microbiome sciences at Monash University
 
 Mission statement for symposium 
 
+<br/>
+<br/>
 
 # {% include icon.html icon="fa-solid fa-users" %}Organising committee
 
@@ -36,6 +38,7 @@ Introduction to our organising committee
 
 {% include grid.html style="square" content=content %}
 
+{% include section.html background="images/background.jpg" dark=true %}
 
 ### Sponsors
 
