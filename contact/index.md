@@ -12,7 +12,7 @@ Please use the following Google Forms to (1) submit an abstract, and/or (2) regi
 {%
   include button.html
   text="Submit an abstract"
-  link="jane@smith.com"
+  link="https://docs.google.com/forms/d/16bGmc_smLFiCeqRelTzt8UZkinHDQQjzZjtr5oznu_M/edit?ts=67e0b11a"
 %}
 
 {%
