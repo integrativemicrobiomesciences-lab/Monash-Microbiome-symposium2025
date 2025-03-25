@@ -10,13 +10,14 @@ A one-day symposium to bring together everyone interested in microbiome sciences
 
 {% capture text %}
 
-what
-who - organising committee
-where
+what<br/>
+who - organising committee<br/>
+speakers<br/>
+sponsors
 
 {%
   include button.html
-  link="research"
+  link="team"
   text="Meet our organising committee"
   icon="fa-solid fa-arrow-right"
   flip=true
@@ -28,7 +29,7 @@ where
 {%
   include feature.html
   image="images/photo.jpg"
-  link="research"
+  link="team"
   title="About"
   text=text
 %}
@@ -36,13 +37,16 @@ where
 
 
 
+
+
 {% capture text %}
 
-how to submit an abstract 
+Submit an abstract<br/>
+Register for event
 
 {%
   include button.html
-  link="projects"
+  link="contact"
   text="Submit now"
   icon="fa-solid fa-arrow-right"
   flip=true
@@ -54,12 +58,13 @@ how to submit an abstract
 {%
   include feature.html
   image="images/photo.jpg"
-  link="projects"
+  link="contact"
   title="Participate"
   flip=true
   style="bare"
   text=text
 %}
+
 
 
 
@@ -70,7 +75,7 @@ how the day will proceed
 
 {%
   include button.html
-  link="team"
+  link="blog"
   text="Program"
   icon="fa-solid fa-arrow-right"
   flip=true
@@ -82,7 +87,7 @@ how the day will proceed
 {%
   include feature.html
   image="images/photo.jpg"
-  link="team"
+  link="blog"
   title="See the proceedings for the day"
   text=text
 %}
