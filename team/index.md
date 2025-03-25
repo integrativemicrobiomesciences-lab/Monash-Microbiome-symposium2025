@@ -17,7 +17,7 @@ Introduction to our organising committee
 
 {% include section.html background="images/background.jpg" dark=true %}
 
-### Speaker list
+### Speakers
 
 {% include section.html %}
 
