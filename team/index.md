@@ -36,17 +36,3 @@ Mission statement for symposium
 {% include grid.html style="square" content=content %}
 
 {% include section.html background="images/background.jpg" dark=true %}
-
-### Sponsors
-
-{% include section.html %}
-
-{% capture content %}
-
-{% include figure.html image="images/photo.jpg" %}
-{% include figure.html image="images/photo.jpg" %}
-{% include figure.html image="images/photo.jpg" %}
-
-{% endcapture %}
-
-{% include grid.html style="square" content=content %}
