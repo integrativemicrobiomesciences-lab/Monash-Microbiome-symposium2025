@@ -31,10 +31,6 @@ The *Microbiome at Monash Symposium* is a one-day event dedicated to bringing to
 {% include figure.html image="images/Marsland_Ben.jpg" caption="[Professor Benjamin Marsland](https://research.monash.edu/en/persons/benjamin-marsland)<br/>Monash University<br/>Department of Immunology and Pathology" %}
 
 
-{% endcapture %}
-
-
-
 
 {% include section.html background="images/background.jpg" dark=true %}
 
@@ -45,7 +41,7 @@ The *Microbiome at Monash Symposium* is a one-day event dedicated to bringing to
 {% capture content %}
 
 {% include figure.html image="images/photo.jpg" caption="invited speaker"%}
-{% include figure.html image="images/Marsland_Ben.jpg" caption="invited speaker" %}
+{% include figure.html image="images/photo.jpg" caption="invited speaker" %}
 
 
 {% endcapture %}
