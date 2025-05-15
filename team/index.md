@@ -7,7 +7,7 @@ nav:
 
 # Microbiome sciences at Monash University
 
-Mission statement for symposium 
+The *Microbiome at Monash Symposium* is a one-day event dedicated to bringing together reserchers from across the university who share an interest in microbiome sciences. Its mission is to foster interdisciplinary dialogue, showcase ongoing research, and catalyse new collaborations that advance microbiome-related discovery and innovation at Monash. 
 
 <br/>
 <br/>
@@ -21,15 +21,32 @@ Mission statement for symposium
 
 {% include section.html background="images/background.jpg" dark=true %}
 
-### Speakers
+### Keynote Speakers
 
 {% include section.html %}
 
 {% capture content %}
 
-{% include figure.html image="images/photo.jpg" %}
-{% include figure.html image="images/photo.jpg" %}
-{% include figure.html image="images/photo.jpg" %}
+{% include figure.html image="images/MvO.jpg" caption="[Professor Madeleine van Oppen **FAA**](https://www.aims.gov.au/about/our-people/prof-madeleine-van-oppen) <br/>University of Melbourne<br/>Australian Institute of Marine Sciences<br/>Australian Academy of Science"%}
+{% include figure.html image="images/Marsland_Ben.jpg" caption="[Professor Benjamin Marsland](https://research.monash.edu/en/persons/benjamin-marsland)<br/>Monash University<br/>Department of Immunology and Pathology" %}
+
+
+{% endcapture %}
+
+
+
+
+{% include section.html background="images/background.jpg" dark=true %}
+
+### Inivted Speakers
+
+{% include section.html %}
+
+{% capture content %}
+
+{% include figure.html image="images/photo.jpg" caption="invited speaker"%}
+{% include figure.html image="images/Marsland_Ben.jpg" caption="invited speaker" %}
+
 
 {% endcapture %}
 
