@@ -7,7 +7,7 @@ nav:
 
 # Microbiome sciences at Monash University
 
-The *Microbiome at Monash Symposium* is a one-day event dedicated to bringing together reserchers from across the university who share an interest in microbiome sciences. Its mission is to foster interdisciplinary dialogue, showcase ongoing research, and catalyse new collaborations that advance microbiome-related discovery and innovation at Monash. 
+The *Microbiome at Monash Symposium* is a one-day event dedicated to bringing together reserchers from across the university who share an interest in microbiome sciences. Its mission is to showcase ongoing research and foster interdisciplinary dialogue, catalysing new collaborations that will strengthen Monash's leadership in microbiome discovery and innovation now and into the future. 
 
 <br/>
 <br/>
@@ -30,6 +30,10 @@ The *Microbiome at Monash Symposium* is a one-day event dedicated to bringing to
 {% include figure.html image="images/MvO.jpg" caption="Professor Madeleine van Oppen **FAA** <br/> University of Melbourne <br/> Australian Institute of Marine Sciences <br/> Australian Academy of Science"%}
 {% include figure.html image="images/Marsland_Ben.jpg" caption="Professor Benjamin Marsland <br/> Monash University <br/> Department of Immunology and Pathology" %}
 
+
+{% endcapture %}
+
+{% include grid.html style="square" content=content %}
 
 
 {% include section.html background="images/background.jpg" dark=true %}
