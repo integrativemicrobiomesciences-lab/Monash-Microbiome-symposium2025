@@ -1,4 +1,4 @@
-er---
+---
 title: About
 nav:
   order: 1
@@ -50,4 +50,4 @@ The *Microbiome at Monash Symposium* is a one-day event dedicated to bringing to
 
 {% endcapture %}
 
-{% include grid.html style="grid" content=content %}
+{% include grid.html style="centre" columns=2 content=content %}
