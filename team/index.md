@@ -16,25 +16,8 @@ The *Microbiome at Monash Symposium* is a one-day event dedicated to bringing to
 
 {% include section.html %}
 
-<div class="team-grid" style="display: flex; flex-wrap: wrap; gap: 2rem; justify-content: center;">
-
-  {% assign team = site.data.members | where: "role", "pi" %}
-  {% for member in team %}
-    <div style="flex: 0 0 30%; text-align:center;">
-      {% include portrait.html person=member %}
-    <div>
-  {%endfor %}
-
-  {% assign others = site.data.members | where_exp: "item", "item.role != 'pi'" %}
-  {% for member in others %}
-    <div style="flex: 0 0 30%; text-align: center;">
-      {% include portrait.html person=member %}
-    </div>
-  {% endfor %}
-
-</div>
-
-
+{% include list.html data="members" component="portrait" filter="role == 'pi'" %}
+{% include list.html data="members" component="portrait" filter="role != 'pi'" %}
 
 {% include section.html background="images/background.jpg" dark=true %}
 
@@ -59,17 +42,11 @@ The *Microbiome at Monash Symposium* is a one-day event dedicated to bringing to
 
 {% include section.html %}
 
-<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 2rem; text-align: center;">
+{% capture content %}
 
-  <div style="max-width: 300px;">
-    {% include figure.html image="images/MvO.jpg" caption="[Professor Madeleine van Oppen **FAA**](https://www.aims.gov.au/about/our-people/prof-madeleine-van-oppen) <br/> University of Melbourne <br/> Australian Institute of Marine Sciences <br/> Australian Academy of Science" %}
-  </div>
+{% include figure.html image="images/photo.jpg" caption="invited speaker"%}
+{% include figure.html image="images/photo.jpg" caption="invited speaker" %}
 
-  <div style="max-width: 300px;">
-    {% include figure.html image="images/Marsland_Ben.jpg" caption="[Professor Benjamin Marsland](https://research.monash.edu/en/persons/benjamin-marsland) <br/> Monash University <br/> Department of Immunology and Pathology" %}
-  </div>
-
-</div>
 
 {% endcapture %}
 
