@@ -50,4 +50,4 @@ The *Microbiome at Monash Symposium* is a one-day event dedicated to bringing to
 
 {% endcapture %}
 
-{% include grid.html style="center" columns=2 content=content %}
+{% include grid.html style="grid" content=content %}
