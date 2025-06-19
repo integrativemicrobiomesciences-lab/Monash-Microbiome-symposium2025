@@ -27,7 +27,7 @@ The *Microbiome at Monash Symposium* is a one-day event dedicated to bringing to
 
 {% capture content %}
 
-{% include figure.html image="images/MvO.jpg" caption="[Professor Madeleine van Oppen **FAA**](https://www.aims.gov.au/about/our-people/prof-madeleine-van-oppen) <br/> Australian Institute of Marine Sciences <br/> School of BioSciences, the University of Melbourne"%}
+{% include figure.html image="images/MvO_02.jpg" caption="[Professor Madeleine van Oppen **FAA**](https://www.aims.gov.au/about/our-people/prof-madeleine-van-oppen) <br/> Australian Institute of Marine Sciences <br/> School of BioSciences, the University of Melbourne"%}
 {% include figure.html image="images/Marsland_Ben.jpg" caption="[Professor Benjamin Marsland](https://research.monash.edu/en/persons/benjamin-marsland) <br/> Monash University <br/> Department of Immunology and Pathology" %}
 
 
