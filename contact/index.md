@@ -35,7 +35,7 @@ Please use the following Google Forms to (1) submit an abstract, and/or (2) regi
 
 {%
   include figure.html
-  image="images/monash_learning_teaching_building.jpg"
+  image="images/MonashLearningVillage.jpg"
   caption="Learning and Teaching Building<br/>
   Monash Univeristy<br/>
   *Image source: ArchitectureAU*"
