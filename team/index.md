@@ -37,17 +37,3 @@ The *Microbiome at Monash Symposium* is a one-day event dedicated to bringing to
 
 
 {% include section.html background="images/background.jpg" dark=true %}
-
-# Inivted Speakers
-
-{% include section.html %}
-
-{% capture content %}
-
-{% include figure.html image="images/photo.jpg" caption="invited speaker"%}
-{% include figure.html image="images/photo.jpg" caption="invited speaker" %}
-
-
-{% endcapture %}
-
-{% include grid.html style="center" columns=2 content=content %}
