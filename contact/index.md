@@ -26,7 +26,7 @@ Please use the following Google Forms to (1) submit an abstract, and/or (2) regi
   include button.html
   type="address"
   tooltip="Our location on Google Maps for easy navigation"
-  link="https://www.google.com/maps/place/19+Ancora+Imparo+Wy,+Clayton+VIC+3168/@-37.9139139,145.129986,17z/data=!3m1!4b1!4m6!3m5!1s0x6ad66acc2f07062d:0xb3d0e2a877a17c63!8m2!3d-37.9139139!4d145.1325609!16s%2Fg%2F11sxvxfwyx?authuser=1&entry=ttu&g_ep=EgoyMDI1MDMxOS4yIKXMDSoASAFQAw%3D%3D"
+  link="[https://www.google.com/maps/place/19+Ancora+Imparo+Wy,+Clayton+VIC+3168/@-37.9139139,145.129986,17z/data=!3m1!4b1!4m6!3m5!1s0x6ad66acc2f07062d:0xb3d0e2a877a17c63!8m2!3d-37.9139139!4d145.1325609!16s%2Fg%2F11sxvxfwyx?authuser=1&entry=ttu&g_ep=EgoyMDI1MDMxOS4yIKXMDSoASAFQAw%3D%3D](https://www.google.com/maps/place/Parking+lot,+33+Innovation+Walk,+Clayton+VIC+3168/@-37.913358,145.1266971,17z/data=!3m1!4b1!4m6!3m5!1s0x6ad66acfaace0bf9:0x7dea832dad4dfcc1!8m2!3d-37.9133623!4d145.129272!16s%2Fg%2F11vjlqrk2z?authuser=1&entry=ttu&g_ep=EgoyMDI1MDYzMC4wIKXMDSoASAFQAw%3D%3D)"
 %}
 
 {% include section.html %}
