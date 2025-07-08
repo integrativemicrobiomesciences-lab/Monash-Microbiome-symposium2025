@@ -39,7 +39,7 @@ Please use the following Google Forms to (1) submit an abstract, and/or (2) regi
   caption="Learning Village<br/>
   33 Innovation Walk,<br/>
   Monash Univeristy<br/>
-  *Image source: ArchitectureAU*"
+  *Image source: Buildcorp*"
 %}
 
 {% endcapture %}
