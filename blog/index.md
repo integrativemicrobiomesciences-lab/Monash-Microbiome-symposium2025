@@ -11,7 +11,14 @@ nav:
 
 9:10 - 9:40a    **Keynote presentation 1** 
 
-9:40 - 11:00a   **Session 1 talks; 5 mins each**
+9:40 - 10:00a   **Session 1: short talks (5 mins each)**
+- Speaker 1:
+- Speaker 2:
+- Speaker 3:
+- Speaker 4:
+- Q&A: open 10 mins
+
+10:00 - 11:00a  **Session 2: long talks (10 mins each)**
 - Speaker 1:
 - Speaker 2:
 - Speaker 3:
@@ -19,16 +26,17 @@ nav:
 - Speaker 5:
 - Q&A: open 10 mins
 
+  
 
 11:00 - 11:30a  **Morning break and poster session**
 
 
-11:30a - 12:30p  **Session 2 talks; 10 mins each**
-- Speaker 1:
-- Speaker 2:
-- Speaker 3:
-- Speaker 4:
-- Speaker 5:
+11:30a - 12:30p  **Session 3: long talks (10 mins each)**
+- Speaker 6:
+- Speaker 7:
+- Speaker 8:
+- Speaker 9:
+- Speaker 10:
 - Q&A: open 10 mins
 
 
@@ -37,21 +45,21 @@ nav:
 
 1:30 - 2:00p    **Keynote presentation 2**
 
-2:00 - 2:30p    **Session 3 talks; 5 mins each**
-- Speaker 1:
-- Speaker 2:
-- Speaker 3:
-- Speaker 4:
+2:00 - 2:30p    **Session 4: short talks (5 mins each)**
 - Speaker 5:
 - Speaker 6:
+- Speaker 7:
+- Speaker 8:
+- Speaker 9:
+- Speaker 10:
 - Q&A: open 10 mins
 
 
-2:30 - 3:20p    **Session 4 talks; 10 mins each**
-- Speaker 1:
-- Speaker 2:
-- Speaker 3:
-- Speaker 4:
+2:30 - 3:20p    **Session 5: long talks (10 mins each)**
+- Speaker 11:
+- Speaker 12:
+- Speaker 13:
+- Speaker 14:
 - Q&A: open 10 mins
 
 
