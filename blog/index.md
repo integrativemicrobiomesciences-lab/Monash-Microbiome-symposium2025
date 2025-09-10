@@ -16,7 +16,6 @@ nav:
 - Speaker 2:
 - Speaker 3:
 - Speaker 4:
-- Q&A: open 10 mins
 
 10:00 - 11:00a  **Session 2: long talks (10 mins each)**
 - Speaker 1:
@@ -52,7 +51,6 @@ nav:
 - Speaker 8:
 - Speaker 9:
 - Speaker 10:
-- Q&A: open 10 mins
 
 
 2:30 - 3:20p    **Session 5: long talks (10 mins each)**
