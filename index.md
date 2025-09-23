@@ -28,7 +28,6 @@ sponsors
 
 {%
   include feature.html
-  image="images/photo.jpg"
   link="team"
   title="About"
   text=text
@@ -57,7 +56,6 @@ Register for event
 
 {%
   include feature.html
-  image="images/photo.jpg"
   link="contact"
   title="Participate"
   flip=true
@@ -86,7 +84,6 @@ how the day will proceed
 
 {%
   include feature.html
-  image="images/photo.jpg"
   link="blog"
   title="See the proceedings for the day"
   text=text
