@@ -37,3 +37,40 @@ The *Microbiome at Monash Symposium* is a one-day event dedicated to bringing to
 
 
 {% include section.html background="images/background.jpg" dark=true %}
+
+
+
+# Inivted Speakers
+
+{% include section.html %}
+
+{% capture content %}
+
+{% include figure.html image="images/photo.jpg" caption="Prof. Chris Greening"%}
+{% include figure.html image="images/photo.jpg" caption="A/Prof. Chun Wie Chong" %}
+{% include figure.html image="images/photo.jpg" caption="Prof. Dena Lyras" %}
+{% include figure.html image="images/photo.jpg" caption="Prof. Francine Marques" %}
+{% include figure.html image="images/photo.jpg" caption="Dr. Jane Varney" %}
+{% include figure.html image="images/photo.jpg" caption="Prof. Jeremy Barr" %}
+{% include figure.html image="images/photo.jpg" caption="Dr. Mika Dewi" %}
+{% include figure.html image="images/photo.jpg" caption="Prof. Mike McDonald" %}
+{% include figure.html image="images/photo.jpg" caption="Prof. Nicola Harris" %}
+{% include figure.html image="images/photo.jpg" caption="Prof. Perran Cook" %}
+{% include figure.html image="images/photo.jpg" caption="A/Prof. Sam Forster" %}
+{% include figure.html image="images/photo.jpg" caption="Dr. Amin Valiei" %}
+{% include figure.html image="images/photo.jpg" caption="Dr. Andre Mu" %}
+{% include figure.html image="images/photo.jpg" caption="Dr. Arash Zamyadi" %}
+{% include figure.html image="images/photo.jpg" caption="Dr. Bob Leung" %}
+{% include figure.html image="images/photo.jpg" caption="Dr. Brandon Winfrey" %}
+{% include figure.html image="images/photo.jpg" caption="Dr. CK Yao" %}
+{% include figure.html image="images/photo.jpg" caption="Dr. Francesca Short" %}
+{% include figure.html image="images/photo.jpg" caption="Dr. Rachael Lappen" %}
+{% include figure.html image="images/photo.jpg" caption="Dr. Simone Li" %}
+
+
+{% endcapture %}
+
+{% include grid.html style="center" columns=2 content=content %}
+
+
+
