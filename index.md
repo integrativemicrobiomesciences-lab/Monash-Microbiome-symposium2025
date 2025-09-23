@@ -19,7 +19,6 @@ sponsors
   include button.html
   link="team"
   text="Meet our organising committee"
-  icon="fa-solid fa-arrow-right"
   flip=true
   style="bare"
 %}
@@ -47,7 +46,6 @@ Register for event
   include button.html
   link="https://docs.google.com/forms/d/16bGmc_smLFiCeqRelTzt8UZkinHDQQjzZjtr5oznu_M/edit?ts=67e0b11a"
   text="Submit now"
-  icon="fa-solid fa-arrow-right"
   flip=true
   style="bare"
 %}
@@ -75,7 +73,6 @@ how the day will proceed
   include button.html
   link="blog"
   text="Program"
-  icon="fa-solid fa-arrow-right"
   flip=true
   style="bare"
 %}
