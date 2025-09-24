@@ -17,6 +17,12 @@ sponsors
 
 {% endcapture %}
 
+{%
+  include feature.html
+  link="team"
+  title="About"
+  text=text
+%}
 
 
 
