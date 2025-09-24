@@ -15,14 +15,6 @@ who - organising committee<br/>
 speakers<br/>
 sponsors
 
-{%
-  include button.html
-  link="team"
-  text="Meet our organising committee"
-  flip=true
-  style="bare"
-%}
-
 {% endcapture %}
 
 {%
