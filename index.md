@@ -3,12 +3,9 @@
 
 # Microbiome Sciences at Monash University
 
-A one-day symposium to bring together everyone interested in microbiome sciences across Monash University. 
+We are excited to announce a one-day symposium dedicated to microbiome sciences, designed to bring together researchers from across Monash University who share an interest in this dynamic and rapidly evolving field. 
 
-The organising committee looks forward to welcoming everyone on the 7th of November 2025, at the Learning Village, Clayton campus. 
-
-We have a fantastic line up of speakers showcasing world-leading microbiome sciences across varied ecosystems; from host-associated to the environment.
-
+This event will take place on **7th November 2025** at the Learning Village, Clayton campus, and the organising committee warmly welcomes colleagues from all disciplines to join us. The program features a fantastic line-up of speakers who will showcase world-leading research spanning diverse ecosystems - from host-associated microbiomes to those shaping the environmnet - highlighting the breadth and impact of microbiome sciences at Monash and beyond. 
 
 
 
