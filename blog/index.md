@@ -57,7 +57,7 @@ nav:
 
 2:30 - 3:20p    **Session 5: long talks (10 mins each)**
 - Speaker 11: A/ Prof. Sam Forster
-- Speaker 12: 
+- Speaker 12: A/ Prof. Ruth Reef
 - Speaker 13:
 - Speaker 14:
 - Q&A: open 10 mins
