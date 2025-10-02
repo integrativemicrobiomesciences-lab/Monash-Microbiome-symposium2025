@@ -52,7 +52,7 @@ nav:
 - Speaker 7: Dr. Bob Leung
 - Speaker 8: Dr. CK Yao
 - Speaker 9: Dr. Andre Mu
-- Speaker 10: 
+- Speaker 10: Dr. Luis Valentin Alvarado
 
 
 2:30 - 3:20p    **Session 5: long talks (10 mins each)**
