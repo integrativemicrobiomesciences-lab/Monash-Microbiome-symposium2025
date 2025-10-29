@@ -36,7 +36,6 @@ nav:
 - Speaker 7: Prof. Dena Lyras
 - Speaker 8: Dr. Jane Varney
 - Speaker 9: Prof. Perran Cook
-- Speaker 10: 
 - Q&A: open 10 mins
 
 
@@ -56,10 +55,9 @@ nav:
 
 
 2:30 - 3:20p    **Session 5: long talks (10 mins each)**
-- Speaker 11: A/ Prof. Sam Forster
-- Speaker 12: A/ Prof. Ruth Reef
-- Speaker 13: Dr. Matthew Snelson
-- Speaker 14:
+- Speaker 10: A/ Prof. Sam Forster
+- Speaker 11: A/ Prof. Ruth Reef
+- Speaker 12: Dr. Matthew Snelson
 - Q&A: open 10 mins
 
 
@@ -69,7 +67,7 @@ nav:
 
 4:45 - 5:00p    **Closing remarks**
 
-
+5:00p           **Networking and drinks**
 
 
 
