@@ -22,8 +22,7 @@ nav:
 - Speaker 1: Prof. Chris Greening
 - Speaker 2: A/Prof. Chun Wie Chong
 - Speaker 3: Prof. Mike McDonald
-- Speaker 4: Dr. Mika Dewi
-- Speaker 5: Prof. Francine Marques
+- Speaker 4: Prof. Francine Marques
 - Q&A: open 10 mins
 
   
@@ -32,10 +31,10 @@ nav:
 
 
 11:30a - 12:30p  **Session 3: long talks (10 mins each)**
-- Speaker 6: Prof. Jeremy Barr
-- Speaker 7: Prof. Dena Lyras
-- Speaker 8: Dr. Jane Varney
-- Speaker 9: Prof. Perran Cook
+- Speaker 5: Prof. Jeremy Barr
+- Speaker 6: Prof. Dena Lyras
+- Speaker 7: Dr. Jane Varney
+- Speaker 8: Prof. Perran Cook
 - Q&A: open 10 mins
 
 
@@ -55,9 +54,10 @@ nav:
 
 
 2:30 - 3:20p    **Session 5: long talks (10 mins each)**
-- Speaker 10: A/ Prof. Sam Forster
-- Speaker 11: A/ Prof. Ruth Reef
-- Speaker 12: Dr. Matthew Snelson
+- Speaker 9: A/ Prof. Sam Forster
+- Speaker 10: A/ Prof. Ruth Reef
+- Speaker 11: Dr. Matthew Snelson
+- Speaker 12: Dr. Mika Dewi
 - Q&A: open 10 mins
 
 
