@@ -36,7 +36,7 @@ nav:
 - Speaker 7: Prof. Dena Lyras
 - Speaker 8: Dr. Jane Varney
 - Speaker 9: Prof. Perran Cook
-- Speaker 10: Prof. Nicola Harris
+- Speaker 10: 
 - Q&A: open 10 mins
 
 
@@ -44,7 +44,7 @@ nav:
 
 
 1:30 - 2:00p    **Keynote presentation 2**
-- Prof. Benjamin Marsland
+- Prof. Nicola Harris
 
 2:00 - 2:30p    **Session 4: short talks (5 mins each)**
 - Speaker 5: Dr. Amin Valiei
