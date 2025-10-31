@@ -33,7 +33,7 @@ nav:
 11:30a - 12:30p  **Session 3: long talks (10 mins each)**
 - Speaker 5: Prof. Jeremy Barr
 - Speaker 6: Prof. Dena Lyras
-- Speaker 7: Dr. Jane Varney
+- Speaker 7: Dr. Matthew Snelson
 - Speaker 8: Prof. Perran Cook
 - Q&A: open 10 mins
 
@@ -56,7 +56,7 @@ nav:
 2:30 - 3:20p    **Session 5: long talks (10 mins each)**
 - Speaker 9: A/ Prof. Sam Forster
 - Speaker 10: A/ Prof. Ruth Reef
-- Speaker 11: Dr. Matthew Snelson
+- Speaker 11: Dr. Jane Varney
 - Speaker 12: Dr. Mika Dewi
 - Q&A: open 10 mins
 
