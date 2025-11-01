@@ -46,26 +46,25 @@ The *Microbiome at Monash Symposium* is a one-day event dedicated to bringing to
 
 {% capture content %}
 
-{% include figure.html image="images/Greening_Chris.jpg" caption="Prof. Chris Greening"%}
+{% include figure.html image="images/JeremyBarr.jpg" caption="Prof. Jeremy Barr" %}
 {% include figure.html image="images/ChongChunWie.jpg" caption="A/Prof. Chun Wie Chong" %}
+{% include figure.html image="images/CookPerran.jpeg" caption="Prof. Perran Cook" %}
+{% include figure.html image="images/MikaDewi.jpg" caption="Dr. Mika Dewi" %}
+{% include figure.html image="images/SamuelForster.jpg" caption="A/Prof. Sam Forster" %}
+{% include figure.html image="images/Greening_Chris.jpg" caption="Prof. Chris Greening"%}
+{% include figure.html image="images/rachaelLappen.jpg" caption="Dr. Rachael Lappen" %}
+{% include figure.html image="images/bobLeung.jpeg" caption="Dr. Bob Leung" %}
+{% include figure.html image="images/simoneLi.jpeg" caption="Dr. Simone Li" %}
 {% include figure.html image="images/DenaLyras.jpg" caption="Prof. Dena Lyras" %}
 {% include figure.html image="images/FrancineMarques.jpg" caption="Prof. Francine Marques" %}
-{% include figure.html image="images/janeVarney.jpg" caption="Dr. Jane Varney" %}
-{% include figure.html image="images/JeremyBarr.jpg" caption="Prof. Jeremy Barr" %}
-{% include figure.html image="images/MikaDewi.jpg" caption="Dr. Mika Dewi" %}
 {% include figure.html image="images/mike_mcdonald.jpg" caption="Prof. Mike McDonald" %}
-{% include figure.html image="images/CookPerran.jpeg" caption="Prof. Perran Cook" %}
-{% include figure.html image="images/SamuelForster.jpg" caption="A/Prof. Sam Forster" %}
-{% include figure.html image="images/ValieiAmin.jpg" caption="Dr. Amin Valiei" %}
 {% include figure.html image="images/Mu_Andre.jpg" caption="Dr. Andre Mu" %}
-{% include figure.html image="image/ZamyadiArash.png" caption="Dr. Arash Zamyadi" %}
-{% include figure.html image="images/bobLeung.jpeg" caption="Dr. Bob Leung" %}
+{% include figure.html image="images/FrancescaShort.jpg" caption="Dr. Francesca Short" %}
+{% include figure.html image="images/ValieiAmin.jpg" caption="Dr. Amin Valiei" %}
+{% include figure.html image="images/janeVarney.jpg" caption="Dr. Jane Varney" %}
 {% include figure.html image="images/WinfreyBrandon.JPG" caption="Dr. Brandon Winfrey" %}
 {% include figure.html image="images/CK_Yao.jpg" caption="Dr. CK Yao" %}
-{% include figure.html image="images/FrancescaShort.jpg" caption="Dr. Francesca Short" %}
-{% include figure.html image="images/rachaelLappen.jpg" caption="Dr. Rachael Lappen" %}
-{% include figure.html image="images/simoneLi.jpeg" caption="Dr. Simone Li" %}
-
+{% include figure.html image="image/ZamyadiArash.png" caption="Dr. Arash Zamyadi" %}
 
 {% endcapture %}
 
