@@ -54,12 +54,12 @@ The *Microbiome at Monash Symposium* is a one-day event dedicated to bringing to
 {% include figure.html image="images/JeremyBarr.jpg" caption="Prof. Jeremy Barr" %}
 {% include figure.html image="images/MikaDewi.jpg" caption="Dr. Mika Dewi" %}
 {% include figure.html image="images/mike_mcdonald.jpg" caption="Prof. Mike McDonald" %}
-{% include figure.html image="images/CookPerran.jpg" caption="Prof. Perran Cook" %}
+{% include figure.html image="images/CookPerran.jpeg" caption="Prof. Perran Cook" %}
 {% include figure.html image="images/SamuelForster.jpg" caption="A/Prof. Sam Forster" %}
 {% include figure.html image="images/ValieiAmin.jpg" caption="Dr. Amin Valiei" %}
 {% include figure.html image="images/Mu_Andre.jpg" caption="Dr. Andre Mu" %}
 {% include figure.html image="image/ZamyadiArash.png" caption="Dr. Arash Zamyadi" %}
-{% include figure.html image="images/bobLeung.jpg" caption="Dr. Bob Leung" %}
+{% include figure.html image="images/bobLeung.jpeg" caption="Dr. Bob Leung" %}
 {% include figure.html image="images/WinfreyBrandon.JPG" caption="Dr. Brandon Winfrey" %}
 {% include figure.html image="images/CK_Yao.jpg" caption="Dr. CK Yao" %}
 {% include figure.html image="images/FrancescaShort.jpg" caption="Dr. Francesca Short" %}
