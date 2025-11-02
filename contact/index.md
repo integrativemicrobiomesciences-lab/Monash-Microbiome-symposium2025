@@ -5,9 +5,6 @@ nav:
   tooltip: Participate and location
 ---
 
-# {% include icon.html icon="fa-regular fa-envelope" %}Participate
-
-
 
 {%
   include button.html
