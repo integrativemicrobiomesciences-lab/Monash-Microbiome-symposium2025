@@ -7,7 +7,7 @@ nav:
 
 # {% include icon.html icon="fa-regular fa-envelope" %}Participate
 
-Please use the followng Google Forms to (1) submit an abstract, and/or (2) register attendance 
+
 
 {%
   include button.html
